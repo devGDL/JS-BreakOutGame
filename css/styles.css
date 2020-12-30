@@ -4,8 +4,6 @@
 }
 
 #myGameCanvas {
-    width: 480;
-    height: 320px;
     background-color: thistle;
     display: block;
     margin: 0 auto;
